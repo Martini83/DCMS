@@ -1,0 +1,167 @@
+/* new css 2021 */ 
+
+ .fieldset-box .subject-legend {
+    color: #333 !important;
+    border-left: 3px solid #06a7e1;
+}
+
+
+.pi-calendar:before {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+    content: "\f073";
+}
+
+.pi-chevron-down:before {
+    
+       font-family: 'Font Awesome 5 Free';
+ font-weight: 900;
+    content: "\f107";
+
+}
+.pi-chevron-right:before {
+    content: "\e901";   font-family: 'Font Awesome 5 Free';
+ font-weight: 900; content: "\f105";
+}
+.pi-chevron-left:before {
+    content: "\e901";   font-family: 'Font Awesome 5 Free';
+ font-weight: 900;
+  content: "\f104"; 
+ 
+}
+
+
+.pi-search:before {
+    font-family: 'Font Awesome 5 Free';
+   font-weight: 900;
+    content: "\f002";
+}
+
+.pi-times:before {
+      font-family: 'Font Awesome 5 Free';
+   font-weight: 900;
+    content: "\f00d";
+}
+.pi-plus:before {
+     font-family: 'Font Awesome 5 Free';
+   font-weight: 900;
+    content: "\f067";
+}
+
+
+input[type=checkbox]:checked::before {     font-family: 'Font Awesome 5 Free';
+   font-weight: 900;
+    content: "\f00c";}
+
+body .ui-button.ui-state-default.ui-button-secondary:enabled:hover, body .ui-buttonset.ui-button-secondary > .ui-button.ui-state-default:enabled:hover {
+    background-color: #5bc9e1 !important;
+    color: #fff !important;
+    border-color: #5bc9e1 !important;
+}
+body .ui-dialog .ui-dialog-content {
+    padding-top: 20px;
+}
+
+
+body .ui-dialog .ui-dialog-titlebar .ui-dialog-titlebar-icon {
+    margin-top: 3px;
+}
+
+
+span[style*="color:#80a403"] {
+    color: #009fd7 !important;
+}.navbar-expand-md {
+    padding: 0;
+}
+
+
+.fb-lable-style[_ngcontent-DCMS-web-c26],.fb-lable-style {
+    overflow: initial !important;
+}
+
+
+img[src="https://eskadcms.eskadenia.com/CPImages/PersonalDetailsComplete.png"],img[src="https://eskadcms.eskadenia.com/CPImages/VehicleDetailsComplete.png"] ,
+img[src="https://eskadcms.eskadenia.com/CPImages/DriverDetailscomplete.png"],img[src="https://eskadcms.eskadenia.com/CPImages/DriverDetailsComplete.png"],
+img[src="https://eskadcms.eskadenia.com/CPImages/4.QuoteDone.png"] , img[src="https://eskadcms.eskadenia.com/CPImages/DocumentsUploadComplete.png"],
+img[src="https://eskadcms.eskadenia.com/CPImages/14.PaymentComplete.png"] , img[src="https://eskadcms.eskadenia.com/CPImages/14. OTPComplete.png"],
+img[src="https://eskadcms.eskadenia.com/CPImages/12.PaymentSummarycomplete.png"]
+
+
+{
+    filter: sepia(100%) hue-rotate(
+186deg
+) saturate(1120%);
+}
+
+
+
+.form-group.editor-control input:required:disabled::placeholder {
+    color: #aea6ae !important;
+}
+
+
+.form-wrap[_ngcontent-DCMS-web-c7] form[_ngcontent-DCMS-web-c7] .button[_ngcontent-DCMS-web-c7]:hover {
+    background-color: #5bc9e1 !important;
+    color: #fff !important;
+}
+
+
+.form-wrap[_ngcontent-DCMS-web-c7] form[_ngcontent-DCMS-web-c7] .button[_ngcontent-DCMS-web-c7] {
+    background-color: #06a7e1 !important;
+}
+
+
+.login .form-wrap form .input {
+    border: 1px solid #cfcfcf !important;
+}
+
+
+.section-login .form-wrap form .button:hover {
+    background: #2bc2f9 !important;
+}
+
+
+.mainbanner .img-section- {
+    object-fit: cover;
+    height: 13rem;
+    background-position: center !important;
+}.mainbanner .img-section- p {
+    font-family: Catamaran ,sans-serif;
+   font-size: 2.5rem;
+    line-height: 1.2;
+    font-weight: 700;
+    color: #ffffff;
+    text-shadow: 1px 2px rgb(0 0 0 / 48%);
+}
+.mainbanner .img-section- div {
+    text-align: center;
+    width: 100% !important;
+}
+.mainbanner .img-section-:before {content: '';background: rgba(0,0,0,0.2);position: absolute;width: 100%;height: 100%;}
+
+
+
+
+body .ui-fileupload .ui-fileupload-buttonbar .ui-button {
+    border: 0 !important;
+}
+
+span.ui-fileupload-choose.ui-button.ui-widget.ui-state-default.ui-corner-all.ui-button-text-icon-left {
+    margin-top: 4px;
+}
+
+
+.btn-primary {
+    background: #009fd7;
+    border-color: #009fd7;
+}
+
+
+.form-group.editor-control .ui-calendar.ui-calendar-w-btn button {
+    height: 43px;
+}
+
+
+#previewForm .form-row {
+    display: block;
+}
